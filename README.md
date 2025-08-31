@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**webneticdigitalsolutions/webneticdigitalsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 🌐 Webnetic Digital Solutions
+# 🌐 Webnetic Digital Solutions
 
 ![Webnetic Banner](https://media.giphy.com/media/L0FqYHZGx9RiF3yX1X/giphy.gif)
 
@@ -24,13 +17,11 @@ Webnetic Digital Solutions is an **Australian-based digital agency** founded in 
 
 ## 💻 Services We Offer
 
-| Service | Description |
-|---------|-------------|
-| ![Web](https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge&logo=html5) | Custom, responsive, SEO-friendly websites. |
-| ![Marketing](https://img.shields.io/badge/Digital%20Marketing-orange?style=for-the-badge&logo=googleanalytics) | Campaigns that boost visibility & traffic. |
-| ![SEO](https://img.shields.io/badge/SEO%20%26%20SEM-green?style=for-the-badge&logo=google) | Improve search engine rankings effectively. |
-| ![Content](https://img.shields.io/badge/Content%20%26%20Branding-purple?style=for-the-badge&logo=medium) | Build a strong brand & audience engagement. |
-| ![Hosting](https://img.shields.io/badge/Web%20Hosting-red?style=for-the-badge&logo=amazonaws) | Secure, reliable, and fast hosting solutions. |
+![Web](https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge&logo=html5)
+![Marketing](https://img.shields.io/badge/Digital%20Marketing-orange?style=for-the-badge&logo=googleanalytics)
+![SEO](https://img.shields.io/badge/SEO%20%26%20SEM-green?style=for-the-badge&logo=google)
+![Content](https://img.shields.io/badge/Content%20%26%20Branding-purple?style=for-the-badge&logo=medium)
+![Hosting](https://img.shields.io/badge/Web%20Hosting-red?style=for-the-badge&logo=amazonaws)
 
 ---
 
@@ -53,19 +44,12 @@ Webnetic Digital Solutions is an **Australian-based digital agency** founded in 
 
 ## 🚀 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WebneticDigital&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WebneticDigital&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WebneticDigital&layout=compact&theme=radical)
 
 ---
 
-### Let’s build something amazing together! 💻✨
+### ✨ Fun Animated Footer
 ![GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Let's build something amazing together! 💻✨**
